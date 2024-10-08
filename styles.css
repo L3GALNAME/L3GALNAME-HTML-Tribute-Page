@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  background: #000000;
+  color: #ffffff;
+  margin: 0;
+  padding: 0 2em;
+}
+
+.header {
+  /*background-color: rgb(128, 128, 128);*/
+  text-align: center;
+  padding: 0.5em;
+  border-bottom: 4px solid rgb(128, 128, 128);
+  width: 90%;
+  margin: 0 auto 2em;
+}
+
+#img-div {
+  text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+#tribute-info {
+  margin: 2em 0;
+}
+
+.pageLink {
+  margin-top: 2em;
+  text-align: center;
+}
+
+a {
+  color: rgb(248, 225, 100);
+  text-decoration: none;
+}
